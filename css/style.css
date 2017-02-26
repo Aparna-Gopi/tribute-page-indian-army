@@ -1,0 +1,25 @@
+.container-fluid{
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjXSNGU1F59ekGy2K0zoI5BTScatYATsYCn-pU67wDnwNtXOOH");
+  background-repeat: No-repeat;
+  background-size: cover;
+  margin : 30px 30px 30px 30px;
+  color:red;
+  }
+.main{
+  font-family: Almendra SC;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+h1{
+  font-size: 60px;
+}
+
+.content{
+  padding-left:25px;
+  padding-right:25px;
+  font-family: Felipa;
+  font-size: 30px;
+  padding-bottom:30px;
+  word-spacing: 25px;
+}
